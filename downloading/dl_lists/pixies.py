@@ -1,0 +1,23 @@
+urls = [
+["https://www.youtube.com/watch?v=MDACd-ShjHk", "Pixies", "Hey"],
+["https://www.youtube.com/watch?v=zvnT_xLCGvQ","Pixies","I Bleed"],
+["https://www.youtube.com/watch?v=7CF9NOgv1us","Pixies","Break My Body"],
+["https://www.youtube.com/watch?v=jYUm5T8uQIY","Pixies","Velouria"],
+["https://www.youtube.com/watch?v=HIAQQvf5qYo","Pixies","The Happening"],
+["https://www.youtube.com/watch?v=a4_x7_1GurY","Pixies","Blown Away"],
+["https://www.youtube.com/watch?v=90fFlII-gwY","Pixies","Where Is My Mind"],
+["https://www.youtube.com/watch?v=3sW3zoANMp4","Pixies","Caribou"],
+["https://www.youtube.com/watch?v=tPgf_btTFlc","Pixies","Here Comes Your Man"],
+["https://www.youtube.com/watch?v=PVyS9JwtFoQ","Pixies","Debaser"],
+["https://www.youtube.com/watch?v=EHC9HE7vazI","Pixies","Monkey Gone To Heaven"],
+["https://www.youtube.com/watch?v=n37Bdr559to","Pixies","Dig For Fire & Allison"],
+["https://www.youtube.com/watch?v=KTQmClWe5N4","Pixies","Gigantic"],
+["https://www.youtube.com/watch?v=xf20Effo6ds","Pixies","Alec Eiffel"],
+["https://www.youtube.com/watch?v=7F5TZ7z7tJs","Pixies","Head On"],
+["https://www.youtube.com/watch?v=-jo3F29JSfs","Pixies","Motorway to Roswell"],
+["https://www.youtube.com/watch?v=d5qgLBrvcXo","Pixies","All Over the World"],
+["https://www.youtube.com/watch?v=Ir4iDEmSrg8","Pixies","Holiday Song"],
+["https://www.youtube.com/watch?v=0Z-Orh7dpKU","Pixies","Is She Weird"],
+["https://www.youtube.com/watch?v=WBx9s5VnTN8","Pixies","Ana"],
+["https://www.youtube.com/watch?v=skYBE38Sl38","Pixies","Nimrod's Son"]
+]
