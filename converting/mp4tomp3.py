@@ -37,7 +37,7 @@ class mp4converter:
         path = directory + "/" + filename + extension
         return os.path.isfile(path)
 
-    def main(self):
+    def run(self):
         try:
             # check specified folders exist
             if not os.path.exists(self.indir):
@@ -85,4 +85,4 @@ if __name__ == "__main__":
         args[1] = args[0]
 
     mcon = mp4converter(args[0], args[1])
-    mcon.main()
+    mcon.run()

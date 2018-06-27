@@ -31,13 +31,30 @@ urls = [
 	#  	"song03_title" : {"t0" : "3:25", "t1" : "5:25"} 
 	#  	}
 	# },
-	{"url" : 'https://www.youtube.com/watch?v=wtHAKEZzrl8',
-	 "artist" : "Tool",
-	 "title" : "The Patient",
-	 "album" : "Lateralus",
+	{"url" : 'https://www.youtube.com/watch?v=_sznCpMlUnI',
+	 "artist" : "Gipsy Kings",
+	 "title" : "Greatest Hits",
+	 "album" : "Greatest Hits",
 	 "autotag" : True,
 	 "songlist" : {
-	 	"The Patient" : {"t0" : "0:00", "t1" : "7:14"} 
+	 	"Djobi Djoba" : {"t0" : "0:01", "t1" : "3:26"},
+	 	"Baila Me" : {"t0" : "3:26", "t1" : "7:13"},
+	 	"Bamboleo" : {"t0" : "7:13", "t1" : "10:39"},
+	 	"Pida Me La" : {"t0" : "10:39", "t1" : "13:58"},
+	 	"Bem, Bem, Maria" : {"t0" : "13:58", "t1" : "17:04"},
+	 	"Volare" : {"t0" : "17:04", "t1" : "20:45"},
+	 	"Moorea" : {"t0" : "20:45", "t1" : "24:49"},
+	 	"A Mi Manera" : {"t0" : "24:49", "t1" : "28:23"},
+	 	"Un Amor" : {"t0" : "28:23", "t1" : "32:13"},
+	 	"Galaxia" : {"t0" : "32:13", "t1" : "34:50"},
+	 	"Escucha Me" : {"t0" : "34:50", "t1" : "39:29"},
+	 	"Tu Quieres Volver" : {"t0" : "39:29", "t1" : "42:44"},
+	 	"Soy" : {"t0" : "42:44", "t1" : "45:57"},
+	 	"La Quiero" : {"t0" : "45:57", "t1" : "49:43"},
+	 	"Allegria" : {"t0" : "49:43", "t1" : "52:33"},
+	 	"Vamos a Bailar" : {"t0" : "52:33", "t1" : "57:30"},
+	 	"La Dona" : {"t0" : "57:30", "t1" : "1:02:06"},
+	 	"Medley" : {"t0" : "1:02:06", "t1" : "1:07:06"}
 	 	}
 	}
 	]
