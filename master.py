@@ -4,7 +4,7 @@ from downloading import download_songs
 import argparse, os
 
 #since this is a command line implementation, allow user to specify directory to download videos to
-parser = argparse.ArgumentParser(description = "downloads multiple videos from youtube, I typically use this for songs, hence the name.")
+parser = argparse.ArgumentParser(description = "downloads multiple videos from youtube and has functionality to convert them to mp3s, cut them at specified times, and add ID3 tags.")
 parser.add_argument("-dir", type = str , default = os.path.join(os.getcwd(), "mp4s"), help = "Default directory is the 'mp4s' folder in the top level directory of this application.")
 
 args = parser.parse_args()

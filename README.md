@@ -8,4 +8,19 @@ plan:
 
 DISCLAIMER: I take no responsibility for the way you choose to use this software. I have built this simply for personal educational purposes.
 
+### Instructions for Use:
+Currently only working in python 2.7.
++ You'll need to have some other stuff installed:
+	+ For converting from mp4 to mp3 install lame, and mplayer:
+		+ `sudo apt-get install lame`
+		+ `sudo apt-get install mplayer`
+	+ For chopping install `pydub` which requires either the libav or ffmpeg binaries
+		+ `sudo apt-get install ffmpeg`
+		+ `pip install pydub`
+	+ For adding id3 tags install `eyed3`
+		+ `pip install eyed3`
 
++ In the `downloading` folder, modify the `current_list.py` file as needed.
+	+ It should be self explanatory based on the objects in there: the `urls` object is a list of dictionaries that pertain to specific videos. Add to or remove from this object as needed. Be sure to modify each specific value for the appropriate key (url, artist, title, album, etc.).
++ Run it at the top level folder:
+	+ In the folder containing `master.py` simpy run `python master.py`
